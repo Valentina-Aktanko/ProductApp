@@ -16,5 +16,11 @@
 .product__image img {
   width: 200px;
   height: 200px;
+}
 
+button {
+  padding: 5px 10px;
+  color: white;
+  background-color: rgb(35, 130, 168);
+  border: none;
 }
